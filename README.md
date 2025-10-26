@@ -1,4 +1,4 @@
-# SecretSweeper-demo
+# SecretSweeper-Showcase
 ## Why SecretSweeper?
 Teams routinely paste logs or snippets into chats or ticketing systems and accidentally leak secrets (API keys, tokens, passwords). **SecretSweeper lets you clean text fields locally** with zero network communication.
 
